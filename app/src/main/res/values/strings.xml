@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">sibor_exer4_SlamBook</string>
+    <string name="name_text">Name</string>
+    <string name="nickname_text">Nickname</string>
+    <string name="age_text">Age</string>
+    <string name="bday_text">When is your birthday?</string>
+    <string name="number_text">Phone number</string>
+    <string name="email_text">What is your email address?</string>
+    <string name="course_text">What is your course?</string>
+    <string name="dream_text">What is your ultimate dream?</string>
+    <string name="crush_text">Who is your secret crush?</string>
+    <string name="message_text">What is your message for me?</string>
+
+    <string name="name_hint">Enter Name</string>
+    <string name="nickname_hint">Enter Nickname</string>
+    <string name="age_hint">Enter Age</string>
+    <string name="bday_hint">Enter Birthday</string>
+    <string name="number_hint">Enter Phone Number</string>
+    <string name="email_hint">Enter Email Address</string>
+    <string name="course_hint">Enter Course</string>
+    <string name="dream_hint">Enter Dream</string>
+    <string name="crush_hint">Enter Name of Crush</string>
+    <string name="message_hint">Enter Message?</string>
+
+    <string name="done_button">DONE</string>
+
+</resources>
